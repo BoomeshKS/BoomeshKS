@@ -1,115 +1,113 @@
-🌟 Hey, I’m Boomeshwara KS
-Full Stack Developer | Aspiring DevOps Engineer | AI/ML & NLP Practitioner
-<div align="center">
+# This is **Boomeshwara KS**
 
-🌐 Building scalable systems.
-⚙️ Learning DevOps pipelines & cloud architecture.
-🧠 Exploring Deep Learning, NLP & Computer Vision.
-🚀 Crafting impactful, production-ready full-stack applications.
+![Title Badge](https://img.shields.io/badge/Full_Stack_Developer_·_AI_&_NLP_Enthusiast-0b5fff?style=for-the-badge&labelColor=020617)
 
-</div>
-🦾 About Me
+![3D Dev Animation](./assets/3d-dev.gif)
 
-I’m a passionate Full Stack Developer with real-world experience shipping production apps using MERN, Django, and React.js.
-I love designing clean architectures, improving system performance, and building applications that scale beautifully in both frontend and backend.
+---
 
-I’m currently expanding into:
+![Section](https://img.shields.io/badge/FOCUS_&_DIRECTION-0b5fff?style=flat-square&labelColor=020617)
 
-DevOps (Docker, CI/CD, cloud infra, deployment automation)
+## ==I am looking for==
 
-Deep Learning (model building, optimization, vision + NLP)
+- Product-focused **Software Development** roles where I can design, build, and scale web applications end-to-end.  
+- Teams that value **clean architecture**, measurable performance improvements, and production-grade delivery.  
+- Opportunities to work across **backend, frontend, and DevOps** to own features from idea to deployment.  
+- Roles where I can bring **AI, Deep Learning, and NLP** into real products – not just as experiments, but as shipped features.
 
-Natural Language Processing (chatbots, classification, embeddings)
+---
 
-My development style blends performance engineering, clean code, and end-to-end problem solving.
+![Section](https://img.shields.io/badge/GROWTH_&_LEARNING-0b5fff?style=flat-square&labelColor=020617)
 
-🎨 Tech Stack & Skills
-💻 Programming
+## ==I am learning==
 
-Python · Java · JavaScript
+- **DevOps Foundations**  
+  > CI/CD pipelines, containerization, and automated deployments with Docker-first thinking.  
+  > Modern deployment flows from repo → pipeline → cloud, with observability and reliability in mind.
 
-🧩 Frontend
+- **Deep Learning & NLP**  
+  > Building **NLP pipelines**: text preprocessing, embeddings, transformers, question-answering flows.  
+  > Exploring **Deep Learning** for real-world web applications using computer vision and language models.
 
-React.js · Next.js · HTML5 · CSS3 · Bootstrap
+- **Scalable Backend Design**  
+  > API design patterns, secure authentication, and performance optimization.  
+  > High-usage flows with clean data models and efficient database access.
 
-⚙️ Backend
+---
 
-Node.js · Django · Flask
+![Section](https://img.shields.io/badge/TECH_STACK_·_VISUAL_MAP-0b5fff?style=flat-square&labelColor=020617)
 
-🗄 Databases
+## ==Skills (Table Format with Official Icons)==
 
-MongoDB · MySQL · PostgreSQL
+| Category | Skills |
+|---------|--------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **AI / Deep Learning / NLP** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge) |
 
-🛠 Tools & DevOps
+---
 
-Git · GitHub · Docker · Streamlit
-Deployment: Hostinger · GoDaddy
+![Section](https://img.shields.io/badge/CURRENT_ROLE-0b5fff?style=flat-square&labelColor=020617)
 
-🤖 AI/ML
+## *Altruisty · Full Stack Developer*
 
-OpenCV · NLP · Model Deployment · Data Pipelines
+> Building and maintaining production-ready **Django + React** applications serving **1000+ active users** across charity and technology platforms.
 
-🚀 Professional Journey
-🔹 Full Stack Developer — Altruisty (2024 – Present)
+> Designing **client portals** with authentication, role-based access control, and API integrations for seamless and secure user operations.
 
-Built and maintained Django + React applications serving 1000+ active users.
+> Engineering **RESTful APIs** and end-to-end data flow pipelines optimized for reliability, clarity, and speed.
 
-Designed secure client portals with RBAC, authentication, and 3rd-party API integrations, boosting engagement by 40%.
+> Deploying full-stack applications with **SSL, domain configuration**, and uptime-focused practices on GoDaddy and Hostinger.
 
-Engineered optimized REST APIs improving response time by 25%.
+> Supporting the team through **daily stand-ups, sprint planning, code reviews**, and structured technical decision-making to improve delivery quality.
 
-Managed full-stack deployments with SSL & domain configuration ensuring 99.9% uptime.
 
-Led Agile ceremonies and improved team workflow efficiency by 15%.
+---
 
-🔹 MERN Stack Developer — NullClass (2024)
+![Section](https://img.shields.io/badge/PROJECTS_·_REAL_WORLD_IMPACT-0b5fff?style=flat-square&labelColor=020617)
 
-Created modular React applications reducing delivery time by 25%.
+## **Selected Projects & Experience**
 
-Implemented code-splitting & lazy loading, improving load speed by 35%.
+### Q&A Community Platform · MERN Stack
 
-Optimized MongoDB queries with indexing → 30% faster data retrieval.
+>A production-style Q&A platform built to feel like a real community space:
 
-Mentored 5 junior developers and established coding standards, reducing bugs by 20%.
+- Full-stack architecture with **React, Node.js, Express, and MongoDB**.  
+- Real-time-feeling UX with **live updates**, **voting**, and **comment** flows.  
+- Carefully designed **MongoDB schemas and queries** to handle concurrent users efficiently.  
+- Complete experience: authentication, sessions, and moderation-ready design.
 
-🏆 Highlighted Projects
-📌 Q&A Community Platform
+---
 
-React.js · Node.js · MongoDB · Express.js
+### **Interactive 3D Web Solutions for Freelancers**
 
-Real-time updates, voting system, user sessions, and moderation tools.
+>High-impact, visually rich web experiences for freelancers:
 
-Achieved 20% higher user engagement via optimized UI/UX.
+- Built **3D-inspired, animated, and responsive interfaces** focused on engagement and clarity.  
+- Optimized rendering and runtime paths for **smooth scrolling, transitions, and interactions**.  
+- Applied **security and performance best practices** so pages feel polished and production-ready.
 
-Designed scalable MongoDB schema handling 500+ concurrent users.
+---
 
-📌 Interactive 3D Web Solutions for Freelancers
+![Section](https://img.shields.io/badge/HOW_I_BUILD-0b5fff?style=flat-square&labelColor=020617)
 
-WebGL · 3D Animations · Frontend Optimization
+## ==How I work==
 
-Delivered immersive 3D-animated websites with responsive UI.
+- I treat every feature as a **mini product**: requirements → architecture → implementation → measurement.  
+- I care about **performance metrics** (load time, response time, query efficiency) and not just “it works”.  
+- I like **clean, reviewable code** with a structure that future developers can understand quickly.  
+- I continually push myself towards **DevOps, Deep Learning, and NLP** to keep my work modern and impactful.
 
-Improved runtime smoothness with fine-tuned rendering pipelines.
+---
 
-Strengthened security and optimized resource handling.
+![Section](https://img.shields.io/badge/LET'S_CONNECT-0b5fff?style=flat-square&labelColor=020617)
 
-🎯 Current Focus Areas
+## Connect with me
 
-🔧 DevOps → Docker, CI/CD, Nginx, Cloud Deployment
-
-🧠 Deep Learning → CNNs, RNNs, transformers
-
-💬 NLP → Chatbots, vector embeddings, sentiment models
-
-🏗️ System Design & Scalable Backend Architectures
-
-📊 GitHub Insights
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoomeshKS&theme=tokyonight&hide_border=true" width="60%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomeshKS&layout=compact&theme=tokyonight&hide_border=true" width="45%"/> </div>
-🤝 Let’s Connect
-<p align="left"> <a href="mailto:boomeshks@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0066C8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/BoomeshKS"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-💫 Final Touch
-
-If you love clean UI, scalable systems, AI-driven features, and high-performance engineering,
-you’ll enjoy exploring my repositories.
-
-✨ Let’s build something impactful together.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boomeshks-software-developer)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoomeshKS) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
+---
