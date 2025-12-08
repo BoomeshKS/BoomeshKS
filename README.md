@@ -1,25 +1,41 @@
 # This is **Boomeshwara KS**
-
-![Title Badge](https://img.shields.io/badge/Full_Stack_Developer_·_AI_&_NLP_Enthusiast-0b5fff?style=for-the-badge&labelColor=020617)
-
-![3D Dev Animation](./assets/3d-dev.gif)
+### **Full Stack Developer · Backend & API Engineer · AI/NLP Practitioner**
 
 ---
 
-![Section](https://img.shields.io/badge/FOCUS_&_DIRECTION-0b5fff?style=flat-square&labelColor=020617)
+| **▦ PROFESSIONAL OVERVIEW** | |
+|-----------------------------|---|
+| **I focus on building production-ready software with clarity, structure, and long-term scalability.** <br><br>  **◆ I am looking for**  <br> • Product-driven software engineering roles focused on stability and modern architecture. <br> • Teams that value refined engineering, measurable improvements, and delivery discipline. <br> • Opportunities spanning **backend, frontend, DevOps**, and multi-layer system ownership. <br> • Roles that integrate **Deep Learning, NLP**, or AI-powered automation into real products. | ![3D Dev Animation](./assets/3d-dev.gif) |
 
-## ==I am looking for==
+---
 
-- Product-focused **Software Development** roles where I can design, build, and scale web applications end-to-end.  
-- Teams that value **clean architecture**, measurable performance improvements, and production-grade delivery.  
-- Opportunities to work across **backend, frontend, and DevOps** to own features from idea to deployment.  
-- Roles where I can bring **AI, Deep Learning, and NLP** into real products – not just as experiments, but as shipped features.
+![LeetCode Stats](https://leetcard.jacoblin.cool/BoomeshKS?theme=chartreuse&font=Marmelad&ext=heatmap)
+
+
+---
+
+![Section](https://img.shields.io/badge/TECH_STACK_·_VISUAL_MAP-0b5fff?style=flat-square&labelColor=020617)
+
+## ◆ Skills (Table Format with Official Icons)
+
+| Category | Skills |
+|---------|--------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **AI / Deep Learning / NLP** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge) |
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoomeshKS&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ![Section](https://img.shields.io/badge/GROWTH_&_LEARNING-0b5fff?style=flat-square&labelColor=020617)
 
-## ==I am learning==
+## ◆ I am learning
 
 - **DevOps Foundations**  
   > CI/CD pipelines, containerization, and automated deployments with Docker-first thinking.  
@@ -32,23 +48,6 @@
 - **Scalable Backend Design**  
   > API design patterns, secure authentication, and performance optimization.  
   > High-usage flows with clean data models and efficient database access.
-
----
-
-![Section](https://img.shields.io/badge/TECH_STACK_·_VISUAL_MAP-0b5fff?style=flat-square&labelColor=020617)
-
-## ==Skills (Table Format with Official Icons)==
-
-| Category | Skills |
-|---------|--------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **AI / Deep Learning / NLP** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge) |
-
----
 
 ![Section](https://img.shields.io/badge/CURRENT_ROLE-0b5fff?style=flat-square&labelColor=020617)
 
@@ -94,7 +93,7 @@
 
 ![Section](https://img.shields.io/badge/HOW_I_BUILD-0b5fff?style=flat-square&labelColor=020617)
 
-## ==How I work==
+## ◆ How I work
 
 - I treat every feature as a **mini product**: requirements → architecture → implementation → measurement.  
 - I care about **performance metrics** (load time, response time, query efficiency) and not just “it works”.  
