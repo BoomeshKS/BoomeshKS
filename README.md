@@ -32,7 +32,8 @@ emphasis on `scalable architecture`, `clean APIs`, and `reliable infrastructure`
 - `Distributed services` and `scalable architectures`
 - `DevOps workflows` and `CI/CD automation`
 - `Cloud infrastructure` and `deployment automation`  
-- `System reliability`, monitoring, and performance  
+- `System reliability`, monitoring, and performance
+- `Design`. `Deploy`. `Scale`.
 
 </td>
 <td width="25%" align="right" valign="top">
