@@ -1,11 +1,33 @@
-# This is **Boomeshwara KS**
-### **Full Stack Developer · Backend & API Engineer · AI/NLP Practitioner**
+# Boomeshwara KS
+### Full-Stack Engineer · Backend & API Specialist · DevOps Engineer
 
 ---
 
-| **▦ PROFESSIONAL OVERVIEW** | |
-|-----------------------------|---|
-| **I focus on building production-ready software with clarity, structure, and long-term scalability.** <br><br>  **◆ I am looking for**  <br> • Product-driven software engineering roles focused on stability and modern architecture. <br> • Teams that value refined engineering, measurable improvements, and delivery discipline. <br> • Opportunities spanning **backend, frontend, DevOps**, and multi-layer system ownership. <br> • Roles that integrate **Deep Learning, NLP**, or AI-powered automation into real products. | ![3D Dev Animation](./assets/3d-dev.gif) |
+## Professional Summary
+
+I design, build, and maintain **production-grade software systems** with a strong
+emphasis on **scalable architecture, clean APIs, and reliable infrastructure**.
+
+My work covers **backend engineering, full-stack development, and DevOps practices**,
+including CI/CD pipelines, cloud deployments, and system reliability. I focus on
+long-term maintainability, operational excellence, and measurable product impact.
+
+---
+
+## Core Focus Areas
+
+- Backend systems and API design
+- Full-stack application development
+- DevOps workflows and CI/CD pipelines
+- Cloud infrastructure and deployment automation
+- System reliability, monitoring, and performance
+
+---
+
+<p align="right">
+  <img src="./assets/3d-dev.gif" alt="Developer Animation" width="220"/>
+</p>
+
 
 ---
 
