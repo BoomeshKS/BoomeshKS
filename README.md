@@ -1,32 +1,49 @@
-# Boomeshwara KS
-### Full-Stack Engineer · Backend & API Specialist · DevOps Engineer
+# I’m **Boomesh KS**
+
+`Full-Stack Engineer` · `Backend & API Specialist` · `DevOps Engineer`
 
 ---
 
-## Professional Summary
+> **Summary**
 
-I design, build, and maintain **production-grade software systems** with a strong
-emphasis on **scalable architecture, clean APIs, and reliable infrastructure**.
+I design, build, and maintain `production-grade software systems` with a strong
+emphasis on `scalable architecture`, `clean APIs`, and `reliable infrastructure`.
 
-My work covers **backend engineering, full-stack development, and DevOps practices**,
-including CI/CD pipelines, cloud deployments, and system reliability. I focus on
-long-term maintainability, operational excellence, and measurable product impact.
+> **Code In**
 
----
-
-## Core Focus Areas
-
-- Backend systems and API design
-- Full-stack application development
-- DevOps workflows and CI/CD pipelines
-- Cloud infrastructure and deployment automation
-- System reliability, monitoring, and performance
-
----
-
-<p align="right">
-  <img src="./assets/3d-dev.gif" alt="Developer Animation" width="220"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,graphql,docker,kubernetes,linux,nginx,aws,gcp,jenkins,githubactions,terraform,postman,netlify,figma" />
 </p>
+
+> **Connect On**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boomeshks-software-developer)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoomeshKS) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
+
+
+> **Core Focus Areas**
+
+<table>
+<tr>
+<td width="75%" valign="top">
+
+- `Backend systems` and `API design` focused on stability and clarity  
+- `Distributed services` and `scalable architectures`
+- `DevOps workflows` and `CI/CD automation`
+- `Cloud infrastructure` and `deployment automation`  
+- `System reliability`, monitoring, and performance  
+
+</td>
+<td width="25%" align="right" valign="top">
+
+<img src="./assets/3d-dev.gif" width="140" />
+
+</td>
+</tr>
+</table>
+
+
 
 
 ---
@@ -38,7 +55,7 @@ long-term maintainability, operational excellence, and measurable product impact
 
 ![Section](https://img.shields.io/badge/TECH_STACK_·_VISUAL_MAP-0b5fff?style=flat-square&labelColor=020617)
 
-## ◆ Skills (Table Format with Official Icons)
+## ➡️ Skills (Table Format with Official Icons)
 
 | Category | Skills |
 |---------|--------|
@@ -57,7 +74,7 @@ long-term maintainability, operational excellence, and measurable product impact
 
 ![Section](https://img.shields.io/badge/GROWTH_&_LEARNING-0b5fff?style=flat-square&labelColor=020617)
 
-## ◆ I am learning
+## ⚛️ I am learning
 
 - **DevOps Foundations**  
   > CI/CD pipelines, containerization, and automated deployments with Docker-first thinking.  
@@ -71,9 +88,11 @@ long-term maintainability, operational excellence, and measurable product impact
   > API design patterns, secure authentication, and performance optimization.  
   > High-usage flows with clean data models and efficient database access.
 
+---
+
 ![Section](https://img.shields.io/badge/CURRENT_ROLE-0b5fff?style=flat-square&labelColor=020617)
 
-## *Altruisty · Full Stack Developer*
+### Altruisty · Full Stack Developer
 
 > Building and maintaining production-ready **Django + React** applications serving **1000+ active users** across charity and technology platforms.
 
@@ -90,8 +109,6 @@ long-term maintainability, operational excellence, and measurable product impact
 
 ![Section](https://img.shields.io/badge/PROJECTS_·_REAL_WORLD_IMPACT-0b5fff?style=flat-square&labelColor=020617)
 
-## **Selected Projects & Experience**
-
 ### Q&A Community Platform · MERN Stack
 
 >A production-style Q&A platform built to feel like a real community space:
@@ -103,32 +120,9 @@ long-term maintainability, operational excellence, and measurable product impact
 
 ---
 
-### **Interactive 3D Web Solutions for Freelancers**
-
->High-impact, visually rich web experiences for freelancers:
-
-- Built **3D-inspired, animated, and responsive interfaces** focused on engagement and clarity.  
-- Optimized rendering and runtime paths for **smooth scrolling, transitions, and interactions**.  
-- Applied **security and performance best practices** so pages feel polished and production-ready.
-
----
-
 ![Section](https://img.shields.io/badge/HOW_I_BUILD-0b5fff?style=flat-square&labelColor=020617)
-
-## ◆ How I work
 
 - I treat every feature as a **mini product**: requirements → architecture → implementation → measurement.  
 - I care about **performance metrics** (load time, response time, query efficiency) and not just “it works”.  
 - I like **clean, reviewable code** with a structure that future developers can understand quickly.  
 - I continually push myself towards **DevOps, Deep Learning, and NLP** to keep my work modern and impactful.
-
----
-
-![Section](https://img.shields.io/badge/LET'S_CONNECT-0b5fff?style=flat-square&labelColor=020617)
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boomeshks-software-developer)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoomeshKS) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
----
