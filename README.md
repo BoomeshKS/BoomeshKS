@@ -21,7 +21,7 @@ emphasis on `scalable architecture`, `clean APIs`, and `reliable infrastructure`
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoomeshKS) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Boomesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomeshks)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Core Focus Areas**
 
