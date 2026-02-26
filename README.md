@@ -21,14 +21,10 @@ emphasis on `scalable architecture`, `clean APIs`, and `reliable infrastructure`
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BoomeshKS) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
 
-## 📊 GitHub Stats
-![BoomeshKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomeshKS&show_icons=true&theme=tokyonight)
-
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=BoomeshKS&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BoomeshKS&theme=dark)
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoomeshKS&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=BoomeshKS)
 
 > **Core Focus Areas**
 
