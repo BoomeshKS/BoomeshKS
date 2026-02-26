@@ -22,9 +22,7 @@ emphasis on `scalable architecture`, `clean APIs`, and `reliable infrastructure`
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BoomeshKS)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=BoomeshKS&theme=dark)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BoomeshKS)
+![GitHub Streak](https://streak-stats.demolab.com?user=BoomeshKS&theme=merko)
 
 > **Core Focus Areas**
 
